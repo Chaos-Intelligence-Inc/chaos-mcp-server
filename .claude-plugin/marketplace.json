@@ -1,13 +1,15 @@
 {
   "name": "chaos-intelligence-plugins",
   "owner": {
-    "name": "Chaos Intelligence",
-    "url": "https://chaosintelligence.com"
+    "name": "Chaos Intelligence"
   },
   "plugins": [
     {
       "name": "chaos-intelligence",
-      "source": "..",
+      "source": {
+        "source": "github",
+        "repo": "Chaos-Intelligence-Inc/chaos-mcp-server"
+      },
       "description": "Access your Capture thoughts and Resonate posts from Claude Code. Provides 26 tools for searching, browsing, and creating thoughts, exploring posts, and more.",
       "version": "1.0.0"
     }

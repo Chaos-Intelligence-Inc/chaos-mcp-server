@@ -3,8 +3,7 @@
   "description": "Access your Capture thoughts and Resonate posts from Claude Code",
   "version": "1.0.0",
   "author": {
-    "name": "Chaos Intelligence",
-    "url": "https://chaosintelligence.com"
+    "name": "Chaos Intelligence"
   },
   "homepage": "https://github.com/Chaos-Intelligence-Inc/chaos-mcp-server",
   "repository": "https://github.com/Chaos-Intelligence-Inc/chaos-mcp-server",
