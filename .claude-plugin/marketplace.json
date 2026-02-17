@@ -1,0 +1,15 @@
+{
+  "name": "chaos-intelligence-plugins",
+  "owner": {
+    "name": "Chaos Intelligence",
+    "url": "https://chaosintelligence.com"
+  },
+  "plugins": [
+    {
+      "name": "chaos-intelligence",
+      "source": "..",
+      "description": "Access your Capture thoughts and Resonate posts from Claude Code. Provides 26 tools for searching, browsing, and creating thoughts, exploring posts, and more.",
+      "version": "1.0.0"
+    }
+  ]
+}

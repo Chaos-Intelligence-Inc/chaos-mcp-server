@@ -1,0 +1,22 @@
+{
+  "name": "chaos-intelligence",
+  "description": "Access your Capture thoughts and Resonate posts from Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chaos Intelligence",
+    "url": "https://chaosintelligence.com"
+  },
+  "homepage": "https://github.com/chaosintelligence/chaos-mcp-server",
+  "repository": "https://github.com/chaosintelligence/chaos-mcp-server",
+  "license": "MIT",
+  "keywords": ["mcp", "thoughts", "capture", "resonate", "ai"],
+  "mcpServers": {
+    "chaos": {
+      "command": "npx",
+      "args": ["-y", "@chaosintelligence/mcp"],
+      "env": {
+        "CHAOS_API_KEY": ""
+      }
+    }
+  }
+}
