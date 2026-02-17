@@ -6,8 +6,8 @@
     "name": "Chaos Intelligence",
     "url": "https://chaosintelligence.com"
   },
-  "homepage": "https://github.com/chaosintelligence/chaos-mcp-server",
-  "repository": "https://github.com/chaosintelligence/chaos-mcp-server",
+  "homepage": "https://github.com/Chaos-Intelligence-Inc/chaos-mcp-server",
+  "repository": "https://github.com/Chaos-Intelligence-Inc/chaos-mcp-server",
   "license": "MIT",
   "keywords": ["mcp", "thoughts", "capture", "resonate", "ai"],
   "mcpServers": {

@@ -6,7 +6,7 @@ MCP server for [Chaos Intelligence](https://chaosintelligence.com) — access yo
 
 ### Claude Code (Plugin)
 
-Browse plugins → **Add marketplace from GitHub** → `chaosintelligence/chaos-mcp-server`
+Browse plugins → **Add marketplace from GitHub** → `Chaos-Intelligence-Inc/chaos-mcp-server`
 
 You'll be prompted to set your `CHAOS_API_KEY`.
 
@@ -103,7 +103,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS)
 ## Development
 
 ```bash
-git clone https://github.com/chaosintelligence/chaos-mcp-server.git
+git clone https://github.com/Chaos-Intelligence-Inc/chaos-mcp-server.git
 cd chaos-mcp-server
 npm install --ignore-scripts
 npm run build

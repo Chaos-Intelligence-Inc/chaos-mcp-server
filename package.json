@@ -24,6 +24,10 @@
     "claude",
     "cursor"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chaos-Intelligence-Inc/chaos-mcp-server.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=20"
